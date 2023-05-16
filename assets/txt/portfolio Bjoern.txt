@@ -1,0 +1,220 @@
+* HOME
+home__social
+https://www.linkedin.com/in/bstenberg/
+https://twitter.com/StenbergBj
+https://github.com/hypicks
+
+=======Home section=======
+
+Hi, I am Björn  
+
+Front-end Developer
+
+I create stunning websites for your business, Highly experienced in web design and development.
+
+=======About section=======
+
+I'm Björn, -[bee-yorn]
+
+A Front-End Developer based in Washington
+
+I design and develop services for customers specializing creating stylish, modern websites, web services and online stores. My passion is to design digital user experiences through meaningful interactions. Check out my limited Portfolio
+
+=======Skills section=======
+
+Education & Skills
+------------------
+
+For more than 4 years our experts have been accomplishing enough with modern Web Development, new generation web and app programming language.
+
+Education
+---------
+
+2012-2015
+Ba in Service Management - Lund University, SWE
+2009-211
+English and Music - Santa Barbara City College, CA
+
+Awards
+------
+
+None... yet.
+
+Work & Experience
+-----------------
+
+IT Project Manager
+Full Time | Office
+2023 - 2023
+IT Project Manager adept in managing multiple projects, while collaborating to achieve company and
+client goals. Skilled in working to define project deliverables and guide complex projects.
+• Area of focus was technical project management of transformation and transition projects linked
+    to our (CGIs) infrastructures operating organization.
+• Together with my PMO we constructed RFOs to meet customer specifications and needs.
+• Managed project deliverables within approved timelines and budget guidelines through CPM.
+• Worked to recognize patterns and bring forth solutions during pre-CAB and escalate important
+    changes through e-CAB.
+• Working with our clients to transfer their legacy data to cloud which will give them a sustainable
+    digital growth.
+• Collaborated cross-functionally to lead project teams to ensure deadlines and mitigate issues/
+    risks.
+
+Sr Project Manager / Delivery Coordinator
+Full Time | Office
+2019 - 2023
+Bahnhof AB
+• Manage and optimize effective internet solutions for Fortune 500 clients in Sweden (including
+    Spotify, EA, Sony, Ubisoft & Bonnier) through tailoring and customizing services to their specific
+    needs.
+• Manage planning and coordination of internet/data products and services inclusive of delivery
+    activities to ensure accurate and timely deadlines are met.
+• Act as the one-stop-shop for clients, subcontractors, and internal stakeholders regarding various
+    projects to aid in solving delivery and project related inquiries or concerns.
+• Work cross functionally with internal partners such as system management to create documents
+    and tutorials on best practices on how to register new PaaS, IaaS, BaaS, FWaaS och SaaS for new
+    and existing clients.
+• In charge of ensuring the implementation of products in databases to ensure accuracy of
+    delivery of future products and sales agreements/contracts.
+• Responsible for verifying agreements made with clients to eliminate potential unpaid invoices
+    through diligent QA and investigating the client company’s economy and credit information.
+• Responsible for mitigating risks worth 80M SEK/$10M USD in FY20 through meticulous quality
+    assurance on client contracts and managing cross functional teams’ deliverables.
+• Act as the main mentor for both new and junior members from both an onboarding and career
+    development standpoint. Created documentation and materials to expedite and ensure smooth
+    onboarding experience for new team members.
+• Analyze client needs to identify future optimization opportunities for CSAT improvements – built
+    a new intake process for new clients in order to expedite contract QA process internally. Yielded
+    +15% increase in MoM contracts.
+
+Admissions Manager
+Full Time | Office | Malmö, SWE
+2016 - 2017
+Presidents Institute
+• Managed 30+ C-level clients and their involvement in our network groups by revising their
+    feedback and concerns on a six-month basis to ensure sufficient commitment and mitigated
+    potential revenue loss.
+• Responsible for recruiting eligible new clients to the broader network through networking
+    events.
+• Initiated first contact with new and existing clients to discuss how their current needs could be
+    met through our specific service.
+• Assisted clients on businesses and personal leadership skills through facilitated advisory peer
+    groups and educational lectures.
+• Actively strategized with product managers to gauge clients needs and expectations to provide
+    customized lectures and networking meetings.
+• Helped develop and deliver networking initiatives to optimize interest for our C-level clients such
+    as inviting influential speakers and relevant topics.
+• Strategized and proactively worked with clients to identify needs to provide customized solutions
+    such as matching client needs with the needs of other C-level clients to retain the highest
+    possible ROI.
+• Developed high-level pipelines to build and accelerate future opportunities by ensuring CSAT
+    through relationship building and delivering results to the clientele.
+
+Founder & CEO
+Full Time | On-Site | Malmö, SWE
+2016 - 2017
+Stenberg Management & Consulting
+• Operated a niche administrative business aimed at the healthcare/psychology system while
+    maintaining a full-time career.
+• Managing a client’s administration responsibilities.
+• Working in close contact with the regions healthcare to ensure sufficient information regarding
+    y client’s patients
+• Responsible for all financial decisions, invoices, payments, and registrations worth 1M SEK/
+    $120k USD in yearly revenue for the client.
+• Optimized workflow and effectivity by creating a time-management schedule for the client which
+    resulted in an increase of +25% efficiency and saved operating costs by 20 000 SEK/$2400 USD
+    which is estimated 20 hours per month.
+• Responsible for identify
+
+=======Services section=======
+
+1.Ui/UX Consultancy
+-------------------
+
+Ui/UX Consultancy
+
+What is UX consulting?
+UX consulting helps companies improve their product’s overall usability and optimize expenses by implementing the right UX processes, methods, and tools.
+
+What I provide
+Establish the right UX processes
+Create exceptional user experiences
+Discover new business opportunities
+Save resources
+
+2.Branding & Design
+-------------------
+
+Branding & Design
+What is Brand & Design?
+Brand Design can be defined as one of the crucial marketing practices of creating the name, logo, design, and the symbolic elements related to the brand to create a distinctive identity in comparison to the other brands in the market and also providing impetus to the product differentiation.
+
+What I provide
+Logo Design
+Banner Design
+Visual Identity Packages
+Business Cards & Business Systems
+
+3.Web Development
+-----------------
+
+Web Development
+What is Web Development?
+Web development services are used to design, build, support, and evolve all types of web-based software.
+
+What I provide
+Web application development
+Testing
+Maintenance
+
+4.Content Writing
+-----------------
+
+Content Writing
+What is Content Writing?
+Content writing is the process of planning, writing and editing web content, typically for digital marketing purposes.
+
+What I provide
+Web content writing
+Blog writing for websites
+Social media content
+
+=======Portfolio section=======
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+=======Our client section=======
+
+1.
+Hi, I’m Aria Collins and I am designer & developer who dream making the world better place by products. I am also very active for international clients.
+
+Aria Collins
+
+Marketing Manager
+
+2.
+This is outstanding work. Everything I needed to do has been done by the makers. I really like this template and more importantly my clients are blown away by it.
+
+Cillian Metcalfe
+
+Graphic Designer
+
+3.
+These people really know what they are doing! Great customer support availability and supperb kindness. I am very happy that I've purchased this liscense!!!
+
+Kianna Baird
+
+App Developer
+
+=======Contact section=======
+
++1 (425) 628 3220
+
+bjorn.p.stenberg@gmail.com
+
+Issaquah, WA
+
+I'm always open to discussing front-end design work, open positions or partnerships.
+
+=======Footer=======
+
+© 2023 by Björn Stenberg. All rights reserved.
