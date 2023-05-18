@@ -207,28 +207,13 @@ themeButton.addEventListener('click', () => {
 })
 
 /* ====================== SEND MESSAGE ======================== */
-// function sendEmail(){
-//     Email.send({
-//         Host : "smtp.gmail.com",
-//         Username : "bjorn.p.stenberg@gmail.com",
-//         Password : "ThebigbadbearGmail89!",
-//         To : "bjorn.p.stenberg@gmail.com",
-//         From : document.getElementById("email").value,
-//         Subject : "New Contact Form Enquiry",
-//         Body: "Name: " + document.getElementById("name").value
-//             + "<br> Email: "+  document.getElementById("email").value
-//             + "<br> Project: "+  document.getElementById("project").value
-//             + "<br> Message: "+  document.getElementById("message").value
-//     }).then(
-//         message => alert("Message Sent Succesfully")
-//     );
-// }
+
 
 function sendEmail(){
     Email.send({
         Host : "smtp.gmail.com",
         Username : "bjorn.p.stenberg@gmail.com",
-        Password : ,
+        Password : "your password here",
         To : "bjorn.p.stenberg@gmail.com",
         From : document.getElementById("email").value,
         Subject : "New Contact Form Enquiry",
