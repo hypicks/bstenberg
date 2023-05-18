@@ -208,7 +208,7 @@ themeButton.addEventListener('click', () => {
 
 /* ====================== SEND MESSAGE ======================== */
 
-
+/*
 function sendEmail(){
     Email.send({
         Host : "smtp.gmail.com",
@@ -224,4 +224,4 @@ function sendEmail(){
     }).then(
     message => alert("Message Sent Succesfully")
     );
-}
+} */
